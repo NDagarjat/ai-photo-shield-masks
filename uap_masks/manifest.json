@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "masks": [
+    {
+      "filename": "mask_01_portrait_soft.png",
+      "label": "Portrait Soft",
+      "brightness": [
+        0.35,
+        0.7
+      ],
+      "saturation": 0.45,
+      "max_rgb_delta": 12
+    },
+    {
+      "filename": "mask_02_portrait_balanced.png",
+      "label": "Portrait Balanced",
+      "brightness": [
+        0.3,
+        0.75
+      ],
+      "saturation": 0.6,
+      "max_rgb_delta": 16
+    },
+    {
+      "filename": "mask_03_vivid_outdoor.png",
+      "label": "Vivid / High Saturation",
+      "brightness": [
+        0.45,
+        0.9
+      ],
+      "saturation": 0.95,
+      "max_rgb_delta": 16
+    },
+    {
+      "filename": "mask_04_lowlight_dark.png",
+      "label": "Low-Light / Dark",
+      "brightness": [
+        0.08,
+        0.35
+      ],
+      "saturation": 0.4,
+      "max_rgb_delta": 12
+    },
+    {
+      "filename": "mask_05_high_detail.png",
+      "label": "High Detail / Textured",
+      "brightness": [
+        0.25,
+        0.8
+      ],
+      "saturation": 0.7,
+      "max_rgb_delta": 18
+    },
+    {
+      "filename": "mask_06_flat_pastel.png",
+      "label": "Flat / Pastel / Illustration",
+      "brightness": [
+        0.55,
+        0.9
+      ],
+      "saturation": 0.35,
+      "max_rgb_delta": 10
+    },
+    {
+      "filename": "mask_07_cool_tone.png",
+      "label": "Cool / Night Neon",
+      "brightness": [
+        0.2,
+        0.65
+      ],
+      "saturation": 0.8,
+      "max_rgb_delta": 15
+    },
+    {
+      "filename": "mask_08_general_universal.png",
+      "label": "Universal General",
+      "brightness": [
+        0.15,
+        0.85
+      ],
+      "saturation": 0.65,
+      "max_rgb_delta": 16
+    }
+  ]
+}
